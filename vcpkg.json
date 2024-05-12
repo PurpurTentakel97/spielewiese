@@ -1,0 +1,11 @@
+{
+  "name": "cpt-lib",
+  "version-string": "1.0.0",
+  "builtin-baseline": "a34c873a9717a888f58dc05268dea15592c2f0ff",
+  "dependencies": [
+    {
+      "name": "gtest",
+      "version>=": "1.14.0"
+    }
+  ]
+}
